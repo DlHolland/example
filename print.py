@@ -3,4 +3,4 @@
 
 def main():
 
-    print("yay it works!")
+    print("This is a test")
